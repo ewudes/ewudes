@@ -1,2 +1,2 @@
-### Hello, world! 🤘
+### Hello, world! 👋
 Hey, I'm Aleksey, Frontend Developer
