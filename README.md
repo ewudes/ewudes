@@ -1,14 +1,12 @@
 ### Hello, world! 👋
 Hey, I'm Aleksey, Frontend Developer
-<br/><br/>
 
-### Links to contact
+### 📨 Links to contact
 <a href="https://www.linkedin.com/in/ewudes/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<br/><br/>
 
-### Skills
+### 🚀 Skills
 <div style="display: flex">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
