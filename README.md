@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+
 ### 📨 Links to contact ###
-  
 <a href="https://www.linkedin.com/in/ewudes/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white&style=flat"/>
 </a>
@@ -11,14 +11,12 @@
   <img src="https://img.shields.io/badge/twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white&style=flat"/>
 </a>
 <br/>
-<br/>
 
 ### 💻 Skills ###
 ![image](https://shields.io/badge/javascript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square&style=flat)
 ![image](https://shields.io/badge/react-black?logo=react&style=for-the-badge%22&style=flat)
 ![image](https://img.shields.io/badge/vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&style=flat)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=flat)
-<br/>
 <br/>
 
 ### 🏅 Achievements ###
