@@ -19,7 +19,7 @@
 ![image](https://img.shields.io/badge/vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&style=flat)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=flat)
 ![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&style=flat)
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=handlebarsdotjs&logoColor=black&style=flat)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black&style=flat)
 ![image](https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black&style=flat)
 <br/>
 
