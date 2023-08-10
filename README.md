@@ -14,6 +14,7 @@
 
 ### 💻 Skills ###
 ![image](https://shields.io/badge/javascript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square&style=flat)
+![image](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat)
 ![image](https://shields.io/badge/react-black?logo=react&style=for-the-badge%22&style=flat)
 ![image](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge%22&logo=react-router&logoColor=white&style=flat)
 ![image](https://img.shields.io/badge/vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&style=flat)
