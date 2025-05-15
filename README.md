@@ -22,6 +22,9 @@
 ![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&style=flat)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=flat)
 ![image](https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black&style=flat)
+![image](https://img.shields.io/badge/-Nunjucks-1C4913?style=flat&logo=nunjucks&logoColor=white)
+![image](https://img.shields.io/badge/-Pug-A86454?style=flat&logo=pug&logoColor=white)
+![image](https://img.shields.io/badge/-Eleventy-000000?style=flat&logo=eleventy&logoColor=white)
 <br/>
 
 ### 🏅 Achievements ###
@@ -29,3 +32,6 @@
 <a href="https://www.codewars.com/users/ewudes/" target="_blank">
   <img src="https://www.codewars.com/users/ewudes/badges/small"/>
 </a>
+<a href="https://leetcode.com/ewudes" target="_blank">
+  <img src="https://badges.peiyuan.ch/v2/leetcode/ewudes/ranking?label=puiiyuen&logo=leetcode">
+</a>codewars.com/users/
